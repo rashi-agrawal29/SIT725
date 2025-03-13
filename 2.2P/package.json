@@ -1,0 +1,19 @@
+{
+  "name": "2.2p",
+  "version": "1.0.0",
+  "description": "sit 725 T1 week 2 prac",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Rashi Agrawal",
+  "license": "ISC",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/rashi-agrawal29/SIT725/2.2P"
+  },
+  "homepage": "https://github.com/rashi-agrawal29/SIT725/2.2P",
+    "dependencies": {
+      "express": "^4.21.2"
+  }
+}
